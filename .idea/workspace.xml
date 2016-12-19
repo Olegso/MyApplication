@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6c86d1f5-0346-4d4b-94a8-38b39c4dfd9d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" afterPath="$PROJECT_DIR$/MyApplication/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyApplication1/.idea/misc.xml" afterPath="$PROJECT_DIR$/MyApplication1/.idea/misc.xml" />
-    </list>
+    <list default="true" id="6c86d1f5-0346-4d4b-94a8-38b39c4dfd9d" name="Default" comment="" />
     <ignored path="test1.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
